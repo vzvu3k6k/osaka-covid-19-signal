@@ -19,4 +19,4 @@ $ open capture/screenshots/signal.png
 
 ---
 
-- `chrome.json` is taken from [etc/docker/seccomp/chrome.json in jessfraz/dotfiles](https://github.com/jessfraz/dotfiles/blob/548d48d19cc3c227802a5a564f87f4605175a1a2/).
+- `chrome.json` is taken from [etc/docker/seccomp/chrome.json in jessfraz/dotfiles](https://github.com/jessfraz/dotfiles/blob/548d48d19cc3c227802a5a564f87f4605175a1a2/etc/docker/seccomp/chrome.json).
