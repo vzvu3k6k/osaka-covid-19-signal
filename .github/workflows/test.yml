@@ -13,4 +13,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - run: ./capture.sh
-    - run: test -e capture/screenshots/signal.png
+    - run: test -e capture/screenshots/signal.png && test -e test -e capture/screenshots/detail.png

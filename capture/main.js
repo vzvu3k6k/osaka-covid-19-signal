@@ -18,5 +18,8 @@ const puppeteer = require('puppeteer');
   const $signalBox = await page.$('.shingo-waku');
   await $signalBox.screenshot({ path: './capture/screenshots/signal.png' });
 
+  const $detailBox = await page.$('.shingo-meisai-waku');
+  await $detailBox.screenshot({ path: './capture/screenshots/detail.png' });
+
   await browser.close();
 })();
