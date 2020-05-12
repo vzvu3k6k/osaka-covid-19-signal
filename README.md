@@ -7,6 +7,7 @@ http://www.pref.osaka.lg.jp/default.html の「大阪府新型コロナ警戒信
 ```
 $ ./capture.sh
 $ open capture/screenshots/signal.png
+$ open capture/screenshots/detail.png
 ```
 
 ## 動作に必要なもの
